@@ -75,7 +75,7 @@ const Index = () => {
               </p>
             </div>
             
-            <div className="grid md:grid-cols-2 gap-8 pt-8">
+            <div className="space-y-8 pt-8">
               <div className="space-y-4">
                 <h3 className="text-xl font-medium">Contributions & Explorations</h3>
                 <ul className="space-y-3 text-muted-foreground">
@@ -102,11 +102,9 @@ const Index = () => {
                 </ul>
               </div>
               
-              <div className="space-y-4">
-                <p className="text-muted-foreground">
-                  LabSeventyEight represents a space for stewardship, creativity, and open collaboration—across disciplines that endure.
-                </p>
-              </div>
+              <p className="text-lg text-muted-foreground max-w-3xl">
+                LabSeventyEight represents a space for stewardship, creativity, and open collaboration—across disciplines that endure.
+              </p>
             </div>
           </div>
         </div>
