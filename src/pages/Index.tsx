@@ -175,7 +175,7 @@ const Index = () => {
             </div>
 
             <div className="pt-8 space-y-4">
-              <div className="flex flex-wrap gap-4">
+              <div className="flex flex-wrap gap-4 justify-center">
                 <Button 
                   variant="outline" 
                   size="lg" 
