@@ -202,8 +202,18 @@ const Index = () => {
 
       {/* Footer */}
       <footer className="py-12 px-6 border-t border-border">
-        <div className="max-w-5xl mx-auto text-center text-sm text-muted-foreground">
+        <div className="max-w-5xl mx-auto text-center text-sm text-muted-foreground space-y-2">
           <p>© 2025 LabSeventyEight. Fall seven times, stand up eight.</p>
+          <p>
+            <a 
+              href="https://spdx.org/licenses/CC-BY-NC-SA-4.0.html" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="hover:text-foreground transition-colors"
+            >
+              Licensed under CC-BY-NC-SA-4.0
+            </a>
+          </p>
         </div>
       </footer>
     </div>
