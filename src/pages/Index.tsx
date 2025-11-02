@@ -136,7 +136,7 @@ const Index = () => {
                 prioritized over short-term perfection.
               </p>
               <p>
-                We welcome conversations about open-source sustainability, visual process, architectural evolution, and collaborative 
+                We welcome conversations about open-source sustainability, visual process, and collaborative 
                 opportunities that connect engineering and art.
               </p>
             </div>
