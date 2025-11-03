@@ -13,7 +13,6 @@ const Index = () => {
             </a>
             <div className="flex gap-6 text-sm">
               <a href="#about" className="hover:text-accent transition-colors">About</a>
-              <a href="#movement" className="hover:text-accent transition-colors">Movement</a>
               <a href="#contact" className="hover:text-accent transition-colors">Contact</a>
             </div>
           </div>
